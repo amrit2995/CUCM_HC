@@ -1,0 +1,86 @@
+2021-06-03 12:39:42 :cucmpub :'show status' executed successfully
+2021-06-03 12:39:43 :cucmpub :'show process load' executed successfully
+2021-06-03 12:39:50 :cucmpub :'utils service list' executed successfully
+2021-06-03 12:39:50 :cucmpub :'utils ntp status' executed successfully
+2021-06-03 12:39:53 :cucmpub :'utils disaster_recovery status backup' executed successfully
+2021-06-03 12:40:45 :cucmpub :'show status' executed successfully
+2021-06-03 12:40:46 :cucmpub :'show process load' executed successfully
+2021-06-03 12:40:53 :cucmpub :'utils service list' executed successfully
+2021-06-03 12:40:53 :cucmpub :'utils ntp status' executed successfully
+2021-06-03 12:40:56 :cucmpub :'utils disaster_recovery status backup' executed successfully
+2021-06-03 12:41:09 :cucmpub :'show status' executed successfully
+2021-06-03 12:41:10 :cucmpub :'show process load' executed successfully
+2021-06-03 12:41:17 :cucmpub :'utils service list' executed successfully
+2021-06-03 12:41:17 :cucmpub :'utils ntp status' executed successfully
+2021-06-03 12:41:20 :cucmpub :'utils disaster_recovery status backup' executed successfully
+2021-06-03 12:44:08 :cucmpub :'show status' executed successfully
+2021-06-03 12:44:09 :cucmpub :'show process load' executed successfully
+2021-06-03 12:44:16 :cucmpub :'utils service list' executed successfully
+2021-06-03 12:44:17 :cucmpub :'utils ntp status' executed successfully
+2021-06-03 12:44:19 :cucmpub :'utils disaster_recovery status backup' executed successfully
+2021-06-03 16:40:29 :cucmpub :'utils service list' executed successfully
+2021-06-03 16:40:30 :cucmpub :'utils ntp status' executed successfully
+2021-06-03 16:40:33 :cucmpub :'utils disaster_recovery status backup' executed successfully
+2021-06-04 01:55:00 :cucmpub :'utils service list' executed successfully
+2021-06-04 01:55:01 :cucmpub :'utils ntp status' executed successfully
+2021-06-04 01:55:04 :cucmpub :'utils disaster_recovery status backup' executed successfully
+2021-06-04 03:55:28 : Connection successful to the server : 10.197.192.190 
+2021-06-04 03:55:39 :cucmpub :'show status' executed successfully
+2021-06-04 03:55:40 :cucmpub :'show process load' executed successfully
+2021-06-04 03:55:47 :cucmpub :'utils service list' executed successfully
+2021-06-04 03:55:48 :cucmpub :'utils ntp status' executed successfully
+2021-06-04 03:55:50 :cucmpub :'utils disaster_recovery status backup' executed successfully
+2021-06-04 03:57:34 : Connection successful to the server : 10.197.192.190 
+2021-06-04 03:57:46 :cucmpub :'show status' executed successfully
+2021-06-04 03:57:47 :cucmpub :'show process load' executed successfully
+2021-06-04 03:57:54 :cucmpub :'utils service list' executed successfully
+2021-06-04 03:57:54 :cucmpub :'utils ntp status' executed successfully
+2021-06-04 03:57:57 :cucmpub :'utils disaster_recovery status backup' executed successfully
+2021-06-04 03:57:58 : Connection successful to the server : 10.197.192.190 
+2021-06-04 03:58:09 :cucmpub :'show status' executed successfully
+2021-06-04 03:58:11 :cucmpub :'show process load' executed successfully
+2021-06-04 03:58:17 :cucmpub :'utils service list' executed successfully
+2021-06-04 03:58:18 :cucmpub :'utils ntp status' executed successfully
+2021-06-04 03:58:21 :cucmpub :'utils disaster_recovery status backup' executed successfully
+2021-06-04 04:05:00 : Connection successful to the server : 10.197.192.190 
+2021-06-04 04:05:11 :cucmpub :'show status' executed successfully
+2021-06-04 04:05:12 :cucmpub :'show process load' executed successfully
+2021-06-04 04:05:19 :cucmpub :'utils service list' executed successfully
+2021-06-04 04:05:19 :cucmpub :'utils ntp status' executed successfully
+2021-06-04 04:05:22 :cucmpub :'utils disaster_recovery status backup' executed successfully
+2021-06-04 04:10:38 : Connection successful to the server : 10.197.192.190 
+2021-06-04 04:10:49 :cucmpub :'show status' executed successfully
+2021-06-04 04:10:50 :cucmpub :'show process load' executed successfully
+2021-06-04 04:10:56 :cucmpub :'utils service list' executed successfully
+2021-06-04 04:10:57 :cucmpub :'utils ntp status' executed successfully
+2021-06-04 04:11:00 :cucmpub :'utils disaster_recovery status backup' executed successfully
+2021-06-04 04:11:00 : Connection successful to the server : 10.197.192.190 
+2021-06-04 04:11:12 :cucmpub :'show status' executed successfully
+2021-06-04 04:11:13 :cucmpub :'show process load' executed successfully
+2021-06-04 04:11:19 :cucmpub :'utils service list' executed successfully
+2021-06-04 04:11:20 :cucmpub :'utils ntp status' executed successfully
+2021-06-04 04:11:23 :cucmpub :'utils disaster_recovery status backup' executed successfully
+2021-06-04 04:11:24 : Connection successful to the server : 10.197.192.190 
+2021-06-04 04:11:34 :cucmpub :'show status' executed successfully
+2021-06-04 04:11:36 :cucmpub :'show process load' executed successfully
+2021-06-04 04:11:42 :cucmpub :'utils service list' executed successfully
+2021-06-04 04:11:43 :cucmpub :'utils ntp status' executed successfully
+2021-06-04 04:11:45 :cucmpub :'utils disaster_recovery status backup' executed successfully
+2021-06-11 04:48:59 : Connection successful to the server : 10.197.192.190
+2021-06-11 04:49:13 :cucmpub :'show status' executed successfully
+2021-06-11 04:49:15 :cucmpub :'show process load' executed successfully
+2021-06-11 04:49:22 :cucmpub :'utils service list' executed successfully
+2021-06-11 04:49:23 :cucmpub :'utils ntp status' executed successfully
+2021-06-11 04:49:26 :cucmpub :'utils disaster_recovery status backup' executed successfully
+2021-06-11 04:49:26 : Connection successful to the server : 10.197.192.190
+2021-06-11 04:49:38 :cucmpub :'show status' executed successfully
+2021-06-11 04:49:39 :cucmpub :'show process load' executed successfully
+2021-06-11 04:49:46 :cucmpub :'utils service list' executed successfully
+2021-06-11 04:49:47 :cucmpub :'utils ntp status' executed successfully
+2021-06-11 04:49:50 :cucmpub :'utils disaster_recovery status backup' executed successfully
+2021-06-11 04:49:51 : Connection successful to the server : 10.197.192.190
+2021-06-11 04:50:04 :cucmpub :'show status' executed successfully
+2021-06-11 04:50:05 :cucmpub :'show process load' executed successfully
+2021-06-11 04:50:12 :cucmpub :'utils service list' executed successfully
+2021-06-11 04:50:13 :cucmpub :'utils ntp status' executed successfully
+2021-06-11 04:50:16 :cucmpub :'utils disaster_recovery status backup' executed successfully

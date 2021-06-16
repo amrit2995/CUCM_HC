@@ -1,0 +1,62 @@
+{
+  "APAC": [
+    {
+      "hostname": "cucmpub",
+      "ip": "10.197.192.190",
+      "username":"admin",
+      "password": "cucm@123"
+    },
+        {
+      "hostname": "cucmpub",
+      "ip": "10.197.192.190",
+      "username":"admin",
+      "password": "cucm@123"
+    },
+        {
+      "hostname": "cucmpub",
+      "ip": "10.197.192.190",
+      "username":"admin",
+      "password": "cucm@123"
+    }
+  ],
+  "EMEA": [
+    {
+      "hostname": "cucmpub",
+      "ip": "10.197.192.190",
+      "username":"admin",
+      "password": "cucm@123"
+    },
+        {
+      "hostname": "cucmpub",
+      "ip": "10.197.192.190",
+      "username":"admin",
+      "password": "cucm@123"
+    },
+        {
+      "hostname": "cucmpub",
+      "ip": "10.197.192.190",
+      "username":"admin",
+      "password": "cucm@123"
+    }
+  ],
+  "NALA": [
+    {
+      "hostname": "cucmpub",
+      "ip": "10.197.192.190",
+      "username":"admin",
+      "password": "cucm@123"
+    },
+        {
+      "hostname": "cucmpub",
+      "ip": "10.197.192.190",
+      "username":"admin",
+      "password": "cucm@123"
+    },
+        {
+      "hostname": "cucmpub",
+      "ip": "10.197.192.190",
+      "username":"admin",
+      "password": "cucm@123"
+    }
+  ]
+}

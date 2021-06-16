@@ -1,0 +1,3 @@
+utils service list
+utils ntp status
+utils disaster_recovery status backup

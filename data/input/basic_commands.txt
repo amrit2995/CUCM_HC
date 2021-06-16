@@ -1,0 +1,5 @@
+show status
+show process load
+utils service list
+utils ntp status
+utils disaster_recovery status backup
